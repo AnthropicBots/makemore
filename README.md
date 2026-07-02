@@ -1,4 +1,4 @@
-# Loopcutter
+# ʊ-Net    HydraNet
 
 > A local-first, multi-agent coding assistant that stops AI agents from looping on the same broken fix. Runs entirely on your own GPUs — no cloud calls, no token bills, no black box.
 
